@@ -1,0 +1,1 @@
+docker push luangazin/ipaas-log-app:0.0.1
